@@ -10,7 +10,7 @@ This project contains SQL practice queries using Employee database.
    - WHERE, GROUP BY, ORDER BY
    - Aggregate functions
 
-2. employee_joins_queries.sql
+2. employees_joins_queries.sql
    - Employee, Department, Project tables
    - INNER JOIN
    - LEFT JOIN
